@@ -16,3 +16,8 @@ Total time: 1.75 seconds
 ## Comparison
 
 Speed improvement: 72.2%
+
+## Download status
+
+Successful downloads: 5
+Failed downloads: 0
