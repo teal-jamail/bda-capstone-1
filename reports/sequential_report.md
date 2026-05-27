@@ -21,3 +21,16 @@ Speed improvement: 72.2%
 
 Successful downloads: 5
 Failed downloads: 0
+
+## Parallel execution
+
+Total time: 10.31 seconds
+
+## Comparison
+
+Speed improvement: -63.7%
+
+## Download status
+
+Successful downloads: 10
+Failed downloads: 0
